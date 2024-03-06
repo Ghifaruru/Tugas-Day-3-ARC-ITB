@@ -12,7 +12,7 @@ axios.get('https://icanhazdadjoke.com/', {
     console.log(`
     ===============================================================================
     ${dadjoke}
-    ===============================================================================`);
+    ===============================================================================`)
   })//OUTPUT
   //JIKA ADA SEBUAH EROR
-  .catch(error => console.error('Error fetching dad joke:', error.message));
+  .catch(error => console.error('Error fetching dad joke:', error.message))
