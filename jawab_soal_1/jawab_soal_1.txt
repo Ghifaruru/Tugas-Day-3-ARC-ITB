@@ -20,4 +20,4 @@ Beberapa kelebihan dari axios yaitu :
     pengelolaan kode asynchronous dan menghindari callback hell.
 
 Dalam index.js terdapat contoh program sederhana yang memanfaatkan axios yaitu mnggunakan
-axios untuk melakukan permintaat GET ke url untuk membuat random number generator.
+axios untuk melakukan permintaat GET ke url untuk membuat random dadjoke generator.
